@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yousef Mousa</h1>
 
-<!--
-**yousefdev20/yousefdev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A young-dumb 🤓 Software Enginer</h3>
+<p align="left"> <img src=https://avatars.githubusercontent.com/u/47471228?v=4 alt=yousefdev2/> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/YousefAbuAnzeh" target="blank"><img src=https://avatars.githubusercontent.com/u/47471228?v=4 alt=yousefdev2/></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 💬 Ask me about **PHP, Laravel, Swoole, vue, Nuxtjs **
+
+- 📫 Reach me at **yousef.dev20@gmail.com**
+
+- 👨‍💻 All of my projects are available at [yousefdev20](https://github.com/yousefdev20)
